@@ -1,5 +1,5 @@
 # Claude
 
-## Claude Code
+*   [Claude Code](#claude-code)
 
-### 
+## Claude Code
